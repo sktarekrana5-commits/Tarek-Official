@@ -19,18 +19,18 @@
         "password": "Tarek1",
         "expirydate": "01-12-2027",
         "Allowoffline": true
-    }
+    },
     {
         "device_id": "160829dc76b593e7",
         "username": "Shakil1",
         "password": "Shakil1",
         "expirydate": "28-11-2025",
         "Allowoffline": false
-    }
+    },
     {
         "device_id": "ecf24fa7003b277a",
         "username": "ador12",
         "password": "ador12",
         "expirydate": "31-12-2026",
         "Allowoffline": false
-    }
+    },
