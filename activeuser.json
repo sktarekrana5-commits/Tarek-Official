@@ -33,5 +33,12 @@
         "password": "ador12",
         "expirydate": "31-12-2024",
         "Allowoffline": false
+    },
+    {
+        "device_id": "91510ed9e4453f0b",
+        "username": "Fahim12",
+        "password": "Fahim12",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
