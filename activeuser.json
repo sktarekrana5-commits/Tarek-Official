@@ -157,5 +157,12 @@
         "password": "Mim990",
         "expirydate": "29-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7d641bd2f386d4ec",
+        "username": "Sojib778",
+        "password": "Sojib778",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
