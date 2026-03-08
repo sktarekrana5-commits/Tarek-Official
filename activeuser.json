@@ -171,5 +171,12 @@
         "password": "Babulkhan",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d370b9592aed5a4b",
+        "username": "Rina770",
+        "password": "Rina770",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
