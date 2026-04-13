@@ -192,5 +192,12 @@
         "password": "AdorDadu890",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9a74092aaa73bf13",
+        "username": "Nafi89",
+        "password": "Nafi89",
+        "expirydate": "12-07-2026",
+        "Allowoffline": false
     }
 ]
