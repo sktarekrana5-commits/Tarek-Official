@@ -225,6 +225,13 @@
         "device_id": "d323f2ae1cc107a0",
         "username": "Nafi90",
         "password": "Nafi90",
+        "expirydate": "15-12-2023",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9a74092aaa73bf13",
+        "username": "Nafi90",
+        "password": "Nafi90",
         "expirydate": "15-12-2026",
         "Allowoffline": false
     }
