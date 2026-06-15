@@ -220,5 +220,12 @@
         "password": "Tania80",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d323f2ae1cc107a0",
+        "username": "Nafi90",
+        "password": "Nafi90",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
