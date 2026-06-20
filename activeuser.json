@@ -248,5 +248,12 @@
         "password": "Rana40",
         "expirydate": "19-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "740d00791c63e3d6",
+        "username": "Sumon89",
+        "password": "Sumon89",
+        "expirydate": "19-03-2026",
+        "Allowoffline": false
     }
 ]
