@@ -241,5 +241,12 @@
         "password": "Nafi99",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d370b9592aed5a4b",
+        "username": "Rana40",
+        "password": "Rana40",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
