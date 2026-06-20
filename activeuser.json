@@ -255,5 +255,12 @@
         "password": "Sumon89",
         "expirydate": "19-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d6a76f0e7b5a25b4",
+        "username": "Jakir99",
+        "password": "Jakir99",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
