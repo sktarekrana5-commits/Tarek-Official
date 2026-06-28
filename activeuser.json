@@ -276,5 +276,12 @@
         "password": "Tarek88",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e655fb6a72b6bc62",
+        "username": "Rinob67",
+        "password": "Rinob67",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
