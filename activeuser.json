@@ -283,5 +283,12 @@
         "password": "Rinob67",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a859c977deeac3ce",
+        "username": "Jisan65",
+        "password": "Jisan65",
+        "expirydate": "25-07-2026",
+        "Allowoffline": false
     }
 ]
