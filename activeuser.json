@@ -297,5 +297,12 @@
         "password": "Mohosin88",
         "expirydate": "29-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3478732c61b25908",
+        "username": "Ahiyan70",
+        "password": "Ahiyan70",
+        "expirydate": "26-12-2026",
+        "Allowoffline": false
     }
 ]
