@@ -325,5 +325,12 @@
         "password": "Sumon67",
         "expirydate": "08-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbc20c99a3be1433",
+        "username": "Sabbir89",
+        "password": "Sabbir89",
+        "expirydate": "11-10-2026",
+        "Allowoffline": false
     }
 ]
