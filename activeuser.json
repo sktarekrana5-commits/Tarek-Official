@@ -368,5 +368,12 @@
         "password": "Mehedi980",
         "expirydate": "22-11-2026",
         "Allowoffline": false
-    } 
+    },
+    {
+        "device_id": "96b1f2740859a724",
+        "username": "Hitlar867",
+        "password": "Hitlar867",
+        "expirydate": "24-11-2026",
+        "Allowoffline": false
+    }
 ]
