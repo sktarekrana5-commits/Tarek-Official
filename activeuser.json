@@ -382,5 +382,12 @@
         "password": "Polash5066",
         "expirydate": "24-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d6a76f0e7b5a25b4",
+        "username": "Jakir81",
+        "password": "Jakir81",
+        "expirydate": "02-01-2027",
+        "Allowoffline": false
     }
 ]
