@@ -410,5 +410,12 @@
         "password": "Polash876",
         "expirydate": "24-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "320b29eb44534afc",
+        "username": "Rakib776",
+        "password": "Rakib776",
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
     }
 ]
