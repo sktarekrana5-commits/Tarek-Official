@@ -373,14 +373,14 @@
         "device_id": "96b1f2740859a724",
         "username": "Hitlar867",
         "password": "Hitlar867",
-        "expirydate": "24-11-2026",
+        "expirydate": "24-11-2024",
         "Allowoffline": false
     },
     {
         "device_id": "845403ce4409fa6d",
         "username": "Polash5066",
         "password": "Polash5066",
-        "expirydate": "24-11-2026",
+        "expirydate": "24-11-2024",
         "Allowoffline": false
     },
     {
@@ -408,7 +408,7 @@
         "device_id": "4326053e93e80bf9",
         "username": "Polash876",
         "password": "Polash876",
-        "expirydate": "03-12-2026",
+        "expirydate": "24-11-2026",
         "Allowoffline": false
     }
 ]
